@@ -1,6 +1,8 @@
 # vuejs-toast
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains an article guide that walks you through the process of setting up toast notifications in a Vue.js application. You can find the article guide here. If you come across any issues, have suggestions for additions, or spot any corrections that need to be made, please feel free to reach out or open an issue. Your feedback is greatly appreciated!
+
+
 
 ## Recommended IDE Setup
 
