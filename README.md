@@ -1,6 +1,8 @@
 # vuejs-toast
 
-This repository contains an article guide that walks you through the process of setting up toast notifications in a Vue.js application. You can find the article guide here. If you come across any issues, have suggestions for additions, or spot any corrections that need to be made, please feel free to reach out or open an issue. Your feedback is greatly appreciated!
+This repository contains an article guide that walks you through the process of setting up toast notifications in a Vue.js application. You can find the article [guide here] (https://medium.com/gitconnected/how-to-set-up-toast-notifications-in-a-vuejs-application-63a8c2f797a8). 
+
+If you come across any issues, have suggestions for additions, or spot any corrections that need to be made, please feel free to reach out or open an issue. Your feedback is greatly appreciated!
 
 
 
